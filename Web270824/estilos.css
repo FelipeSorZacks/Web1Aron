@@ -1,0 +1,17 @@
+.parrafoAmazul{
+    color: greenyellow;
+    background-color: black;
+    border: 5px solid yellow;
+    padding-bottom: 120px;
+}
+
+    
+.tituloMorado{
+    color: blueviolet;
+        border: 2px solid royalblue;
+}
+
+    .parrafoRojo{
+        border: 2px solid palevioletred;
+
+    }
